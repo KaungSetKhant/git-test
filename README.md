@@ -2,5 +2,5 @@
 Testing for me
 
 #Installation
-* * npm install balh
-* * import blah from blah
+* npm install balh
+* import blah from blah
